@@ -1,0 +1,202 @@
+.container{
+    background-color: #222222;
+    width: 100%;
+    height:100%;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    position: absolute;
+}
+.box{
+    width: 40%;
+    height: 80%;
+    background-color: #333333;
+    position: absolute;
+    border-radius: 10px;
+    left: 29%;
+    top: 10%;
+    box-shadow: 2px 3px 25px black;
+
+}
+.box input{
+    position: absolute;
+    text-align: center;
+    right: 24%;
+    top: 16%;
+   outline-style: none;
+   border: none;
+    background-color:rgba(255, 255, 255, 0.2) ;
+    cursor: pointer;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.5);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box label{
+    position: absolute;
+    left: 25%;
+    top: 17%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color: white;
+}
+
+.box1 input{
+    position: absolute;
+    text-align: center;
+    left: 45%;
+    top: 33%;
+   outline-style: none;
+   border: none;
+    background-color:rgba(255, 255, 255, 0.2) ;
+    cursor: pointer;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.5);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box1 label{
+    position: absolute;
+    left: 40%;
+    top: 34%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color: white;
+}
+.box2 input{
+    position: absolute;
+    
+    left: 45%;
+    top: 42%;
+   
+   background-color: white;
+    
+    width: 10px;
+    height: 30px;
+   
+    color: white;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box2 label{
+    position: absolute;
+    left: 47%;
+    top: 43%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color: white;
+}
+.box3 input{
+    position: absolute;
+    
+    left: 50%;
+    top: 42%;
+   
+   background-color: white;
+    
+    width: 10px;
+    height: 30px;
+   
+    color: white;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box3 label{
+    position: absolute;
+    left: 52%;
+    top: 43%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color: white;
+}
+.box4 input{
+    position: absolute;
+    text-align: center;
+    left: 45%;
+    top: 48%;
+   outline-style: none;
+   border: none;
+    background-color:rgba(255, 255, 255, 0.2) ;
+    cursor: pointer;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.5);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box4 label{
+    position: absolute;
+    left: 35.5%;
+    top: 49%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color: white;
+}
+.box5 input{
+    position: absolute;
+    text-align: center;
+    left: 45%;
+    top: 58%;
+   outline-style: none;
+   border: none;
+    background-color:rgba(255, 255, 255, 0.2) ;
+    cursor: pointer;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.5);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box5 label{
+    position: absolute;
+    left: 38%;
+    top: 59%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color: white;
+}
+.box6 input{
+    position: absolute;
+    text-align: center;
+    left: 45%;
+    top: 69%;
+   outline-style: none;
+   border: none;
+    background-color:rgba(255, 255, 255, 0.2) ;
+    cursor: pointer;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.5);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box6 label{
+    position: absolute;
+    left: 36.5%;
+    top: 70%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color: white;
+}
+.box7 button{
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    color: #333333;
+    background-color: aqua;
+    left: 41.5%;
+    top: 80%;
+    border: none;
+
+    
+}
